@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/00-rewards-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/01-rewards-db/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/10-spring-intro-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/10-spring-intro/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/12-javaconfig-dependency-injection-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/12-javaconfig-dependency-injection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/16-annotations-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/16-annotations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/22-aop-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/22-aop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/24-test-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/24-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/26-jdbc-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/26-jdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/28-transactions-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/28-transactions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/30-jdbc-boot-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/32-jdbc-autoconfig-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/32-jdbc-autoconfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/34-spring-data-jpa-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/34-spring-data-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/36-mvc-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/36-mvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/38-rest-ws-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/38-rest-ws/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/40-boot-test-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/40-boot-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/42-security-rest-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/42-security-rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/44-actuator-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/44-actuator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-spring-labfiles/lab/src/main/java" charset="UTF-8" />
+  </component>
+</project>
